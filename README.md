@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gw-rohit
+- 👋 Hi, I’m ROHIT
 - 👀 I’m interested in hacking
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ...
